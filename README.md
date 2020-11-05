@@ -1,1 +1,5 @@
-# algodaily
+# Algodaily
+
+| Problem # | Description | Solution | Solved |
+| --------: | ----------- | -------- | :----: |
+
