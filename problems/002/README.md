@@ -15,3 +15,5 @@ If it's a multiple of both 3 and 5, represent it as "fizzbuzz".
 If it's neither, just return the number itself.
 
 As such, fizzBuzz(15) would result in '12fizz4buzzfizz78fizzbuzz11fizz1314fizzbuzz'.
+
+[Solution](/problems/002/index.js)
