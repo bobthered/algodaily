@@ -15,3 +15,5 @@ isPalindrome(str);
 ```
 
 For an extra challenge, try to ignore non-alphanumerical characters. The final solution that we present will handle all edge cases.
+
+[Solution](./index.js)

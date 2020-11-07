@@ -1,3 +1,6 @@
+#.eslintrc.js
+.eslintrc*
+
 # Logs
 logs
 *.log
