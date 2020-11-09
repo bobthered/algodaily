@@ -8,3 +8,4 @@
 |         4 | [Is An Anagram](problems/004)             | [Solution](problems/004/index.js) |   ✔️   |
 |         5 | [Validate Palindrome](problems/005)       | [Solution](problems/005/index.js) |   ✔️   |
 |         6 | [Majority Element](problems/006)          | [Solution](problems/006/index.js) |   ✔️   |
+|         6 | [Power of Three](problems/007)            |                                   |        |
