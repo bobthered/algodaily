@@ -9,3 +9,5 @@ console.log(powerOfThree(9));
 
 console.log(powerOfThree(7));
 // false
+
+[Solution](./index.js)
