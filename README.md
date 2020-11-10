@@ -9,4 +9,4 @@
 |         5 | [Validate Palindrome](problems/005)       | [Solution](problems/005/index.js) |   ✔️   |
 |         6 | [Majority Element](problems/006)          | [Solution](problems/006/index.js) |   ✔️   |
 |         7 | [Power of Three](problems/007)            | [Solution](problems/007/index.js) |   ✔️   |
-|         8 | [Single Lonely Number](problems/008)      |                                   |        |
+|         8 | [Single Lonely Number](problems/008)      | [Solution](problems/008/index.js) |   ✔️   |

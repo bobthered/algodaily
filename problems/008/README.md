@@ -7,3 +7,5 @@ lonelyNumber([4, 4, 6, 1, 3, 1, 3])
 
 lonelyNumber([3, 3, 9])
 // 9
+
+[Solution](./index.js)
