@@ -34,3 +34,5 @@ const m = new Hashmap();
 m.set('name', 'Jake');
 console.log(m.get('name'));
 ```
+
+[Solution](./index.js)
