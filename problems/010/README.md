@@ -23,3 +23,5 @@ function Node(val) {
 ```
 
 Follow up: you'll likely get the recursive solution first, could you do it iteratively?
+
+[Solution](./index.js)

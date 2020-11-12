@@ -11,4 +11,4 @@
 |         7 | [Power of Three](problems/007)                | [Solution](problems/007/index.js) |   ✔️   |
 |         8 | [Single Lonely Number](problems/008)          | [Solution](problems/008/index.js) |   ✔️   |
 |         9 | [Implement a Hash Map](problems/009)          | [Solution](problems/009/index.js) |   ✔️   |
-|        10 | [Binary Tree Inorder Traversal](problems/010) |                                   |        |
+|        10 | [Binary Tree Inorder Traversal](problems/010) | [Solution](problems/010/index.js) |   ✔️   |
