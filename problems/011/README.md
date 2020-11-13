@@ -13,3 +13,5 @@ Here's an example: if the input was 49, we'd go through the following steps:
 ```
 
 We would then return 4.
+
+[Solution](./index.js)
