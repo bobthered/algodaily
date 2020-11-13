@@ -12,3 +12,4 @@
 |         8 | [Single Lonely Number](problems/008)          | [Solution](problems/008/index.js) |   ✔️   |
 |         9 | [Implement a Hash Map](problems/009)          | [Solution](problems/009/index.js) |   ✔️   |
 |        10 | [Binary Tree Inorder Traversal](problems/010) | [Solution](problems/010/index.js) |   ✔️   |
+|        11 | [Sum Digits Until One](problems/011)          |                                   |        |
