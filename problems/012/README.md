@@ -11,3 +11,5 @@ function detectSubstring(str, subStr) {
 ```
 
 Important-- do not use the native String class's built-in substring or substr method. This exercise is to understand the underlying implementation of that method.
+
+[Solution](./index.js)
