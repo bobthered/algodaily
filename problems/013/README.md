@@ -18,3 +18,5 @@ function isDollarDeleteEqual(arr) {
   return;
 }
 ```
+
+[Solution](./index.js)

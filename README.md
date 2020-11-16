@@ -14,4 +14,4 @@
 |        10 | [Binary Tree Inorder Traversal](problems/010) | [Solution](problems/010/index.js) |   ✔️   |
 |        11 | [Sum Digits Until One](problems/011)          | [Solution](problems/011/index.js) |   ✔️   |
 |        12 | [Detect Substring in String](problems/012)    | [Solution](problems/012/index.js) |   ✔️   |
-|        13 | [Dollar Sign Deletion](problems/013)          |                                   |        |
+|        13 | [Dollar Sign Deletion](problems/013)          | [Solution](problems/013/index.js) |   ✔️   |
