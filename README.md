@@ -16,4 +16,4 @@
 |        12 | [Detect Substring in String](problems/012)    | [Solution](problems/012/index.js) |   ✔️   |
 |        13 | [Dollar Sign Deletion](problems/013)          | [Solution](problems/013/index.js) |   ✔️   |
 |        14 |                                               |                                   |        |
-|        15 | [Max of Min Pairs](problems/015)              |                                   |        |
+|        15 | [Max of Min Pairs](problems/015)              | [Solution](problems/015/index.js) |   ✔️   |

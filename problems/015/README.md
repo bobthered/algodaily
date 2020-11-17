@@ -13,3 +13,5 @@ How can we divide up the pairs such that the sum of smaller integers in each pai
 Here's an example input: [3, 4, 2, 5]. The return value is 6 because the maximum sum of pairs is 6 = min(2, 3) + min(4, 5).
 
 Note that negative numbers may also be included.
+
+[Solution](./index.js)
