@@ -22,3 +22,5 @@ missingInUnsorted(arr, lowerBound, upperBound);
 ```
 
 Here's the challenge-- can you find the missing number in O(n) time? Can you do it without sorting?
+
+[Solution](./index.js)
