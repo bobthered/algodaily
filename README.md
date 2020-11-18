@@ -17,3 +17,4 @@
 |        13 | [Dollar Sign Deletion](problems/013)          | [Solution](problems/013/index.js) |   ✔️   |
 |        14 | Never received email...                       |                                   |   😞   |
 |        15 | [Max of Min Pairs](problems/015)              | [Solution](problems/015/index.js) |   ✔️   |
+|        16 | [Missing Number In Unsorted](problems/016)    |                                   |        |
