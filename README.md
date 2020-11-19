@@ -18,3 +18,4 @@
 |        14 | Never received email...                       |                                   |   😞   |
 |        15 | [Max of Min Pairs](problems/015)              | [Solution](problems/015/index.js) |   ✔️   |
 |        16 | [Missing Number In Unsorted](problems/016)    | [Solution](problems/016/index.js) |   ✔️   |
+|        17 | [Missing Number In Unsorted](problems/017)    |                                   |        |
