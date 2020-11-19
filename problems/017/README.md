@@ -18,3 +18,5 @@ Can you write a method missingNumbers that takes an array of continuous numbers 
 missingNumbers([1, 2, 4, 5, 7]);
 // [3, 6]
 ```
+
+[Solution](./index.js);
