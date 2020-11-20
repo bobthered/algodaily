@@ -19,4 +19,4 @@
 |        15 | [Max of Min Pairs](problems/015)              | [Solution](problems/015/index.js) |   ✔️   |
 |        16 | [Missing Number In Unsorted](problems/016)    | [Solution](problems/016/index.js) |   ✔️   |
 |        17 | [Find Missing Number in Array](problems/017)  | [Solution](problems/017/index.js) |   ✔️   |
-|        18 | [Sum All Primes](problems/018)                |                                   |        |
+|        18 | [Sum All Primes](problems/018)                | [Solution](problems/018/index.js) |   ✔️   |

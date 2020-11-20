@@ -7,3 +7,5 @@ For example, we're given the number 15. All prime numbers smaller than 15 are:
 2, 3, 5, 7, 11, 13
 
 They sum up to 41, so sumOfAllPrimes(15) would return 41.
+
+[Solution](./index.js)
