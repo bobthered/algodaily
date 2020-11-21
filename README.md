@@ -20,3 +20,4 @@
 |        16 | [Missing Number In Unsorted](problems/016)    | [Solution](problems/016/index.js) |   ✔️   |
 |        17 | [Find Missing Number in Array](problems/017)  | [Solution](problems/017/index.js) |   ✔️   |
 |        18 | [Sum All Primes](problems/018)                | [Solution](problems/018/index.js) |   ✔️   |
+|        19 | [Fast Minimum In Rotated Array](problems/019) |                                   |        |
