@@ -22,3 +22,4 @@
 |        18 | [Sum All Primes](problems/018)                | [Solution](problems/018/index.js) |   ✔️   |
 |        19 | [Fast Minimum In Rotated Array](problems/019) | [Solution](problems/019/index.js) |   ✔️   |
 |        20 | [Remove Duplicates From Array](problems/020)  | [Solution](problems/020/index.js) |   ✔️   |
+|        21 | [Contiguous Subarray Sum](problems/021)       |                                   |        |
