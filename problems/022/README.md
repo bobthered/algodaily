@@ -25,3 +25,5 @@ treatsDistribution(snacks)
 In this example, the sister can have a collection of snacks consisting of [2, 4] and the brother has snack collection [1, 1]. The sister can have up to 2 different kinds of snacks, while the brother has only 1 kind of snacks.
 
 You may assume that the length of the given array is in range is even, and that there's less than 10,000 elements.
+
+[Solution](./index.js)

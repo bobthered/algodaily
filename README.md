@@ -23,4 +23,4 @@
 |        19 | [Fast Minimum In Rotated Array](problems/019) | [Solution](problems/019/index.js) |   ✔️   |
 |        20 | [Remove Duplicates From Array](problems/020)  | [Solution](problems/020/index.js) |   ✔️   |
 |        21 | [Contiguous Subarray Sum](problems/021)       | [Solution](problems/021/index.js) |   ✔️   |
-|        22 | [Contiguous Subarray Sum](problems/022)       |                                   |        |
+|        22 | [Treats Distribution](problems/022)           | [Solution](problems/022/index.js) |   ✔️   |
