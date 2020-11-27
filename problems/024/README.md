@@ -9,3 +9,5 @@ What we want to return is [128, 64, 32, 8]. This is because 2 x 4 x 16 = 128, 1 
 In other words, output[i] is equal to the product of all the elements in the array other than input[i].
 
 Can you solve this in O(n) time without division?
+
+[Solution](./index.js)
