@@ -21,3 +21,5 @@ leastMissingPositive([1, 2, 3, 0])
 ```
 
 In the above example, it is 4 since we already have 0 through 3. Have your code run in O(n) time with constant space.
+
+[Solution](./index.js);
