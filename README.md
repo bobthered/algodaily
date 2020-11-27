@@ -24,3 +24,4 @@
 |        20 | [Remove Duplicates From Array](problems/020)  | [Solution](problems/020/index.js) |   ✔️   |
 |        21 | [Contiguous Subarray Sum](problems/021)       | [Solution](problems/021/index.js) |   ✔️   |
 |        22 | [Treats Distribution](problems/022)           | [Solution](problems/022/index.js) |   ✔️   |
+|        23 | [Least Missing Positive Number](problems/023) |                                   |        |
