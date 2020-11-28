@@ -26,4 +26,4 @@
 |        22 | [Treats Distribution](problems/022)           | [Solution](problems/022/index.js) |   ✔️   |
 |        23 | [Least Missing Positive Number](problems/023) | [Solution](problems/023/index.js) |   ✔️   |
 |        24 | [Product Except Self](problems/024)           | [Solution](problems/024/index.js) |   ✔️   |
-|        25 | [Two Sum](problems/025)                       |                                   |        |
+|        25 | [Two Sum](problems/025)                       | [Solution](problems/025/index.js) |   ✔️   |

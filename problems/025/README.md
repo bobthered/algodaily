@@ -20,3 +20,5 @@ function twoSum(arr, goal) {
   return arr;
 }
 ```
+
+[Solution](./index.js);
