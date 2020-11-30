@@ -29,4 +29,4 @@
 |        25 | [Two Sum](problems/025)                                   | [Solution](problems/025/index.js) |   ✔️   |
 |        26 | [Find the Intersection of Two Linked Lists](problems/026) |                                   |        |
 |        27 | [Grab a Random Node](problems/027)                        | [Solution](problems/027/index.js) |   ✔️   |
-|        28 | [Swap Every Two Nodes in a Linked List](problems/028)     |                                   |        |
+|        28 | [Swap Every Two Nodes in a Linked List](problems/028)     | [Solution](problems/028/index.js) |   ✔️   |

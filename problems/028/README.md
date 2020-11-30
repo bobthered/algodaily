@@ -31,3 +31,5 @@ list.next.next.next = new Node(4);
 
 swapEveryTwo(list);
 ```
+
+[Solution](./index.js)
